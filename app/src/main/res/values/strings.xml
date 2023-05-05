@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FetchTest</string>
+    <string name="id_field">ID: %1$d</string>
+    <string name="list_header">List %1$d</string>
+    <string name="list_count">%1$d items</string>
+    <string name="connection_error">Unable to connect to website.</string>
+    <string name="list_error">Error while parsing list.</string>
+
+</resources>
